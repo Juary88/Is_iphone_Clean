@@ -1,7 +1,7 @@
 # Is_iphone_Clean
 keras，yolo，cnn，classification
 
-#项目描述
+项目描述
 ========
 >
 1 手机天线处经常会有杂质，或者污染，通过aoi拍摄照片，运用深度学习自动判断是否有污染、杂质。
@@ -14,7 +14,7 @@ keras，yolo，cnn，classification
 >
 5 使用labelimg标记图片，用yolo3进行训练，找出污染或者杂质所在的位置。
 
-原图范例
+原图范例以及更详细的描述
 =========
 >
 ![github](https://github.com/Juary88/Is_iphone_Clean/blob/master/pic/question.png)
