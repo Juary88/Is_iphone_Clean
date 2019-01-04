@@ -15,4 +15,4 @@ keras，yolo，cnn，classification
 
 #原图范例
 >
-![github](https://github.com/Juary88/Is_iphone_Clean/blob/master/pic/)
+![github](https://github.com/Juary88/Is_iphone_Clean/blob/master/pic/question.png)
