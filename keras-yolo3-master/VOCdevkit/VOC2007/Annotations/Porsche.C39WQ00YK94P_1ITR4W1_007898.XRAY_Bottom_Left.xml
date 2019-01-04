@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fail</folder>
+	<filename>Porsche.C39WQ00YK94P_1ITR4W1_007898.XRAY_Bottom_Left.jpg</filename>
+	<path>D:\BaiduYunDownload\fail\Porsche.C39WQ00YK94P_1ITR4W1_007898.XRAY_Bottom_Left.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>37</ymin>
+			<xmax>49</xmax>
+			<ymax>51</ymax>
+		</bndbox>
+	</object>
+</annotation>
