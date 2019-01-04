@@ -18,3 +18,15 @@ keras，yolo，cnn，classification
 =========
 >
 ![github](https://github.com/Juary88/Is_iphone_Clean/blob/master/pic/question.png)
+>
+
+模型训练结果
+=========
+![github](https://github.com/Juary88/Is_iphone_Clean/blob/master/pic/lenet.png)
+>
+![github](https://github.com/Juary88/Is_iphone_Clean/blob/master/pic/confision.png)
+>
+
+yolo模型结果（目前只标注了100多张，定位位置有偏差）
+=========
+![github](https://github.com/Juary88/Is_iphone_Clean/blob/master/pic/yolo.png)
